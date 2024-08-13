@@ -4,7 +4,7 @@ body {
 }
 
 input, button {
-  margin: 20px;
+  margin: 30px;
 }
 
 button {
@@ -16,4 +16,4 @@ button {
 }
 
 button:hover {
-  background-color: #FF33D7;
+  background-color: #3498db;
